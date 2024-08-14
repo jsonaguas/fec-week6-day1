@@ -1,0 +1,9 @@
+/* MoviesList.css */
+.movie-title {
+  cursor: pointer;
+  padding: 10px;
+}
+
+.movie-title.active {
+  color: rgb(255, 111, 0); /* Change this to the color you want for active titles */
+}
