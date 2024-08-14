@@ -1,5 +1,5 @@
 // App.jsx
-import MoviesList from './Components/MoviesList'; // Adjust the path as necessary
+import MoviesList from './Components/MoviesList'; 
 
 const App = () => {
   return (

@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './MoviesList.css'; // Ensure this import is correct
+import './MoviesList.css';
 
 const MoviesList = () => {
   const [movies, setMovies] = useState([
